@@ -6,7 +6,7 @@ sizin için prefix ban,sil,ping verdim slash ise ping ve istetistik verdim güle
 
 # kurulum 
 
-config.js girin ordaki gerekli yerleri doldurun. sonra terminal açıp **npm start** yazın! ve botu başlatın
+config.js girin ordaki gerekli yerleri doldurun. sonra terminal açıp **npm i** yazıp modüleri indirin sonra **npm start** yazın! ve botu başlatın
 
 # linkler
 **
